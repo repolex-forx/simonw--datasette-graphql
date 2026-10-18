@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/simonw/datasette-graphql/commit/587ebdd6a0c5998f61993ca01a130f54d229c05f",
       "git:hexsha": "587ebdd6a0c5998f61993ca01a130f54d229c05f",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "3.0a1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "3.0a1",
+      "repolex:parsedAt": "2026-10-18T05:12:26.734863+00:00"
     },
     {
       "@id": "https://repolex.ai/r/simonw/datasette-graphql/commit/6d3378d8f9f816f47e803767a8b8e0c191ab9f67",
