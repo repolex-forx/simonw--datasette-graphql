@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "datasette-graphql",
+  "versions": [
+    {
+      "commit": "587ebdd6a0c5998f61993ca01a130f54d229c05f",
+      "tag": "3.0a1",
+      "parsed_at": "2026-10-18T05:12:26.757072+00:00"
+    }
+  ]
+}
