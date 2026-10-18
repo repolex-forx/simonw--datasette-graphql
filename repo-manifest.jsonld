@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/simonw/datasette-graphql/commit/587ebdd6a0c5998f61993ca01a130f54d229c05f",
       "git:hexsha": "587ebdd6a0c5998f61993ca01a130f54d229c05f",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "3.0a1"
     },
     {
